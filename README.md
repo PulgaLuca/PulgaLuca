@@ -9,10 +9,10 @@
 
 ```
 💻 I am a self taught Full Stack Developer
-🔭 Working on C and Data Science
+🔭 Working on C and Python
 🌱 Interested in Data Science, AI/ML, Entrepreneurship
 🚀 I like competing in Hackathons and challenges
-💖 In a complicated relationship with C
+💖 In a complicated relationship with C++
 ```
 
 <br>
@@ -23,6 +23,7 @@
 
 ### 💼 Working experience:
 - Student Intern at "Maggioli Group" | Web Development | Remote - Summer 2021
+- Student Intern at "Akkodis" | WebApp Development | Hybrid - Summer/Autumn 2023
 
 ### 🎓University:
 - First Year of Degree In Computer Science And Engineering | Alma Mater Studiorum University of Bologna | Campus of Cesena
@@ -37,7 +38,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 
 - **Web Development**:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
