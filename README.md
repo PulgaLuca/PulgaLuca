@@ -8,9 +8,8 @@
 
 
 ```
-💻 I am a self taught Full Stack Developer
 🔭 Working on C and Python
-🌱 Interested in Data Science, AI/ML, Entrepreneurship
+🌱 Interested in Technology & Entrepreneurship
 🚀 I like competing in Hackathons and challenges
 💖 In a complicated relationship with C++
 ```
