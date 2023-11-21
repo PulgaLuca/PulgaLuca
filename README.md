@@ -21,8 +21,8 @@
 
 
 ### 💼 Working experience:
+- Student Intern at "Akkodis" | Python developer | Hybrid - Summer/Autumn 2023
 - Student Intern at "Maggioli Group" | Web Development | Remote - Summer 2021
-- Student Intern at "Akkodis" | WebApp Development | Hybrid - Summer/Autumn 2023
 
 ### 🎓University:
 - First Year of Degree In Computer Science And Engineering | Alma Mater Studiorum University of Bologna | Campus of Cesena
