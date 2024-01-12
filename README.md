@@ -75,7 +75,7 @@
 <br>
 
 <li>
-<a href="mailto:luca.pulga2003@gmail.com" target="_blank">
+<a href="mailto:lucapulgaa@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  LucaPulga-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
