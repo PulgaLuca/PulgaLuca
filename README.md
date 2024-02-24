@@ -19,6 +19,8 @@
 
 
 
+
+
 ### 💼 Working experience:
 - Software Engineer at "Akkodis Italy S.r.l" | Hybrid
 - Student Intern at "Maggioli Group" | Remote - Summer 2021
