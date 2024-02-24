@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>! I’m Pulga Luca </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=;Full-Stack+Developer;Computer+Science+Student;Data+Science+Newbie;Love+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=;Back-end+Developer;Computer+Science+Student;Love+to+learn+new+stuff"></a>
 </p>
 <img align="left" src="icon.jpg" alt="" width="320" />
 <hr>
@@ -8,10 +8,9 @@
 
 
 ```
-🔭 Working on C and Python
-🌱 Interested in Technology & Entrepreneurship
+🔭 Working on Python
+🌱 Interested in Technology
 🚀 I like competing in Hackathons and challenges
-💖 In a complicated relationship with C++
 ```
 
 <br>
@@ -21,11 +20,11 @@
 
 
 ### 💼 Working experience:
-- Student Intern at "Akkodis" | Python developer | Hybrid - Summer/Autumn 2023
-- Student Intern at "Maggioli Group" | Web Development | Remote - Summer 2021
+- Software Engineer at "Akkodis Italy S.r.l" | Hybrid
+- Student Intern at "Maggioli Group" | Remote - Summer 2021
 
 ### 🎓University:
-- First Year of Degree In Computer Science And Engineering | Alma Mater Studiorum University of Bologna | Campus of Cesena
+- Degree In Computer Science and Engineering | Alma Mater Studiorum University of Bologna | Campus of Cesena
 
 
 <br>
