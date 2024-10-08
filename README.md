@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Luca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-  <a href="https://github.com/lucapulga"><img src="https://img.shields.io/github/followers/pulgaluca?label=Follow&style=social" alt="GitHub Follow"></a>
+  <a href="https://github.com/pulgaluca"><img src="https://img.shields.io/github/followers/pulgaluca?label=Follow&style=social" alt="GitHub Follow"></a>
   <a href="mailto:lucapulgaa@gmail.com"><img src="https://img.shields.io/badge/-lucapulgaa@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucapulgaa@gmail.com"></a>
   <a href="https://www.linkedin.com/in/lucapulga"><img src="https://img.shields.io/badge/LinkedIn-lucapulga-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucapulga"></a>
 </p>
@@ -30,6 +30,18 @@
 
 ---
 
+## 🎓 Studies
+
+- BS, Computer Science and Engineering
+**University of Bologna, Cesena, Italy** (2022 - Present)
+  - Created a 2D videogame with OOP and Functional Programming in Java.
+  
+- High School, Computer Science and Information Technology
+**Technical Technological Institute Blaise Pascal, Cesena, Italy** (2017 - 2022)
+  - Participated in several Computer Science Olympiad competitions, gaining knowledge in data structures and algorithms in C++ and Python.
+  
+---
+
 ## 🤝 Volunteering Activities
 
 - **National Civil Service Volunteer** at **ASC Cesena** (05/2022 - 05/2023)
@@ -38,7 +50,7 @@
   
 - **Certificate of Merit - "Cavalieri del Lavoro"** (12/2022)
   
-- **Student Internship** at **Municipality of San Mauro Pascoli** (08/2021 - 09/2021)
+- **Student Internship at Municipality of San Mauro Pascoli** (08/2021 - 09/2021)
   
 ---
 
@@ -51,6 +63,21 @@
 
 - **2nd place** in the **Point of You - Talents CALL4IDEAS Challenge** (12/2022).
   - Topic: Development of innovative ideas for talent acquisition and recruitment processes.
+
+- **Scholarship** - Artificial Intelligence, IoT, Climate Change, Sustainability, and Citizenship (07/2020).
+  - Topic: Technologies for Sustainability (T4S) - How to use Artificial Intelligence and the IoT to build a fair and green Society.
+  - Creation of an eco-sustainable greenhouse using Artificial Intelligence and IoT in Python with Google Colab, Zerynth, Ubidots, and with ESP32, BME280, Capacitive Moisture Soil Sensor.
+
+---
+
+## 📁 Projects
+
+- **Hackathon START HACK 23** (03/2023):
+  - Developed an app that raises awareness among employees about their "ecological footprint" in a playful way and helps them to record and improve it.
+  
+- **Weather Station - High School Project**:
+  - Used Raspberry Pi B 3B+, Analog Vane, Cup Anemometer Sensors, MCP3208, Rain Gauge, DHT22, Adafruit BME280.
+  - Developed a client-server application in Python and C# to monitor the weather station.
 
 ---
 
@@ -99,7 +126,7 @@
 ## 🌟 Connect with Me
 💬 Feel free to ask me about system design, software development practices, and innovative project ideas.
 <p align="center">
-  <a href="https://github.com/lucapulga"><img src="https://img.shields.io/github/followers/pulgaluca?label=Follow&style=social" alt="GitHub Follow"></a>
+  <a href="https://github.com/pulgaluca"><img src="https://img.shields.io/github/followers/pulgaluca?label=Follow&style=social" alt="GitHub Follow"></a>
   <a href="mailto:lucapulgaa@gmail.com"><img src="https://img.shields.io/badge/-lucapulgaa@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucapulgaa@gmail.com"></a>
   <a href="https://www.linkedin.com/in/lucapulga"><img src="https://img.shields.io/badge/LinkedIn-lucapulga-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lucapulga"></a>
 </p>
