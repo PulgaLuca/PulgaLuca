@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently studying **Computer Science and Engineering** at the **University of Bologna**.
 - 💼 I’m working as a **Software Engineer** at **Akkodis**
-- 🚀 I launch some fancy rockets in the air for the **Aurora Rocketry Team**.
+- 🚀 Currently building some fancy rockets in the air for the **Aurora Rocketry Team**.
 - 🎯 **Fun fact**: I have no fun fact.
 
 ---
@@ -32,19 +32,17 @@
 
 ## 🎓 Studies
 
-- BS, Computer Science and Engineering
-**University of Bologna, Cesena, Italy** (2022 - Present)
+- BS, Computer Science and Engineering, **University of Bologna, Cesena, Italy** (2022 - Present)
   - Created a 2D videogame with OOP and Functional Programming in Java.
   
-- High School, Computer Science and Information Technology
-**Technical Technological Institute Blaise Pascal, Cesena, Italy** (2017 - 2022)
+- High School, Computer Science and Information Technology, **Technical Technological Institute Blaise Pascal, Cesena, Italy** (2017 - 2022)
   - Participated in several Computer Science Olympiad competitions, gaining knowledge in data structures and algorithms in C++ and Python.
   
 ---
 
 ## 🤝 Volunteering Activities
 
-- **National Civil Service Volunteer** at **ASC Cesena** (05/2022 - 05/2023)
+- **National Civil Service Volunteer** (05/2022 - 05/2023)
   
 - **Volunteer** at **APS No Profit “La Piazzetta”** (07/2019 – 06/2024)
   
