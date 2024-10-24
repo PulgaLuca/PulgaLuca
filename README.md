@@ -57,6 +57,9 @@
 - **1st place** in the **Coding Challenge Week Senior** (12/2023).
   - Topics: Python, algorithms, REST API, system design, testing, application security, and microservices.
 
+- **Best Solver** in the Akkodis coding challenges (05/2023).
+  - Data Structures and Algorithms coding challenges
+
 - Business idea **"IDEAPP"** ranked in the top 10 at the **Call for Startup 23-24**.
 
 - **2nd place** in the **Point of You - Talents CALL4IDEAS Challenge** (12/2022).
