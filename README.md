@@ -72,6 +72,8 @@
 ---
 
 ## 📁 Projects
+- BCG Hackathon  (10/2024):
+  - Design and creation of the platform “S.A.F.E.”. It combines cutting-edge data analytics, high-performance computing, and hyperlocal sensor networks to deliver real-time, AI-driven forecasting for natural disaster risk and severity.
 
 - **Hackathon START HACK 23** (03/2023):
   - Developed an app that raises awareness among employees about their "ecological footprint" in a playful way and helps them to record and improve it.
