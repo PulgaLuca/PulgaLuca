@@ -18,12 +18,12 @@
 ---
 
 ## 💻 Tech Activities
-
-- **Software Engineer** at **Akkodis Italy S.r.l.** (07/2023 - Present)
   
 - **Software Team Leader** at **Aurora Rocketry Team** (09/2024 - Present)
   - Software Team Leader in Avionics Department.
   - Embedded software architecture design in C.
+
+- **Software Engineer** at **Akkodis Italy S.r.l.** (07/2023 - 12/2024)
 
 - **Software Developer Intern** at **Maggioli Group** (05/2021 - 06/2021)
   - Developed responsive UI with Bootstrap 4, jQuery, Typescript, and Angular.
