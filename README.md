@@ -54,6 +54,9 @@
 
 ## 🏆 Achievements
 
+- **8th classified in Huawei Developer Competition** (12/2024).
+  - Design and creation of the platform “S.A.F.E.”. It combines cutting-edge data analytics, high-performance computing, and hyperlocal sensor networks to deliver real-time, AI-driven forecasting for natural disaster risk and severity.
+    
 - **1st place** in the **Coding Challenge Week Senior** (12/2023).
   - Topics: Python, algorithms, REST API, system design, testing, application security, and microservices.
 
