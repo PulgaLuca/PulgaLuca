@@ -19,7 +19,7 @@
 
 ## 💻 Tech Activities
   
-- **Software Team Leader** at **Aurora Rocketry Team** (09/2024 - 06/2025)
+- **Software Team Leader** at **Aurora Rocketry Team** (09/2024 - Present)
   - Software Team Leader in Avionics Department.
   - Embedded software architecture design in C.
 
@@ -47,8 +47,6 @@
 - **Volunteer** at **APS No Profit “La Piazzetta”** (07/2019 – 06/2024)
   
 - **Certificate of Merit - "Cavalieri del Lavoro"** (12/2022)
-  
-- **Student Internship at Municipality of San Mauro Pascoli** (08/2021 - 09/2021)
   
 ---
 
