@@ -10,8 +10,8 @@
 
 ## 🎨 About Me
 
-- 🌱 I’m currently studying **Computer Science and Engineering** at the **University of Bologna**.
-- 💼 I’m working as a **Software Engineer** at **Akkodis**
+- 🌱 I am currently studying **Computer Science and Engineering** at the **University of Bologna**.
+- 💼 I am working as a **Computer Science Teacher** at the **Technical Technological Institute High School "Blaise Pascal"**
 - 🚀 Currently building some fancy rockets in the air for the **Aurora Rocketry Team**.
 - 🎯 **Fun fact**: I have no fun fact.
 
@@ -19,7 +19,7 @@
 
 ## 💻 Tech Activities
   
-- **Software Team Leader** at **Aurora Rocketry Team** (09/2024 - Present)
+- **Software Team Leader** at **Aurora Rocketry Team** (09/2024 - 06/2025)
   - Software Team Leader in Avionics Department.
   - Embedded software architecture design in C.
 
