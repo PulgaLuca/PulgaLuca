@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <strong>Just code with your fingers and your own AI (Actual Intelligence)</strong>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Alongside software development, I teach Software Engineering and Programming, he
 
 ## Experience
 
-### Teaching Assistant — Software Engineering & Programming
+### Teaching Assistant - Software Engineering & Programming
 
 **Technical Technological Institute "Blaise Pascal"**
 *December 2024 – Present*
@@ -48,7 +48,7 @@ Alongside software development, I teach Software Engineering and Programming, he
 * Teach Clean Code, Domain-Driven Design, Clean Architecture, networking and design trade-offs.
 * Perform code reviews and individual technical discussions, providing actionable engineering feedback.
 
-### Team Leader — Software Engineer
+### Team Leader - Software Engineer
 
 **Aurora Rocketry Team**
 *September 2024 – June 2025*
@@ -113,14 +113,14 @@ Alongside software development, I teach Software Engineering and Programming, he
 
 | Year | Achievement                                                                                                                 |
 | ---- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2024 | **8th Place — Huawei Developer Competition**, with the S.A.F.E. natural-disaster forecasting platform                       |
-| 2023 | **1st Place — Coding Challenge Week Senior**, covering algorithms, APIs, system design, testing, security and microservices |
-| 2023 | **Best Solver — Akkodis Coding Challenge**, focused on data structures and algorithms                                       |
-| 2023 | **Top 10 Emerging Ideas — IDEA / AlmaCube Call for Startup**, with IDEAPP                                                   |
+| 2024 | **8th Place - Huawei Developer Competition**, with the S.A.F.E. natural-disaster forecasting platform                       |
+| 2023 | **1st Place - Coding Challenge Week Senior**, covering algorithms, APIs, system design, testing, security and microservices |
+| 2023 | **Best Solver - Akkodis Coding Challenge**, focused on data structures and algorithms                                       |
+| 2023 | **Top 10 Emerging Ideas - IDEA / AlmaCube Call for Startup**, with IDEAPP                                                   |
 | 2023 | **START HACK 23**, with the sustainability and gamification project COMPAINABILITY                                          |
-| 2022 | **Certificate of Merit — Federazione Nazionale Cavalieri del Lavoro**                                                       |
-| 2022 | **2nd Place — Point of You / Talents CALL4IDEAS**                                                                           |
-| 2020 | **Scholarship — AI, IoT, Climate and Citizenship**                                                                          |
+| 2022 | **Certificate of Merit - Federazione Nazionale Cavalieri del Lavoro**                                                       |
+| 2022 | **2nd Place - Point of You / Talents CALL4IDEAS**                                                                           |
+| 2020 | **Scholarship - AI, IoT, Climate and Citizenship**                                                                          |
 
 ---
 
@@ -133,7 +133,7 @@ Alongside software development, I teach Software Engineering and Programming, he
 
 ### Technical Technological Institute "Blaise Pascal"
 
-**Diploma in Computer Science and Information Technology — 100/100 cum laude**
+**Diploma in Computer Science and Information Technology - 100/100 cum laude**
 *2017 – 2022 · Cesena, Italy*
 
 * Participated in individual and team Informatics Olympiads.
